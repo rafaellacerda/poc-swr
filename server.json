@@ -1,0 +1,29 @@
+{
+  "balance": [
+    {
+      "id": 1,
+      "name": "Saldo 1",
+      "balance": 1040
+    },
+    {
+      "id": 2,
+      "name": "Saldo 2",
+      "balance": 840
+    },
+    {
+      "id": 3,
+      "name": "Saldo 3",
+      "balance": 890
+    },
+    {
+      "id": 4,
+      "name": "Saldo 4",
+      "balance": 930
+    },
+    {
+      "id": 5,
+      "name": "Saldo 5",
+      "balance": 510
+    }
+  ]
+}
